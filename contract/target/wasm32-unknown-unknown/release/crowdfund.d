@@ -1,0 +1,1 @@
+/home/tiisetso/Desktop/web3/crowdfund/contract/target/wasm32-unknown-unknown/release/crowdfund.wasm: /home/tiisetso/Desktop/web3/crowdfund/contract/src/lib.rs /home/tiisetso/Desktop/web3/crowdfund/contract/src/models.rs /home/tiisetso/Desktop/web3/crowdfund/contract/src/utils.rs
